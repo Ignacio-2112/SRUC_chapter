@@ -235,25 +235,27 @@ This approach comes with the caveat that experience of working with standardised
 
 Whilst it is strategically important to frustrate the use of genAI in assessment, at the same time, we must acknowledge that genAI tools have a place supporting student learning and we need to encourage students to use AI constructively to prepare them for the workplace. When used effectively, AI can enhance productivity, ensure continuous skill development and provide a more secure future aligned with emerging technologies.
 
-Asking students to outline the logical steps they planned and followed using AI tools as an assistant for completing tasks or assessments introduces a certain degree of transparency around genAI engagement [@cotelli2025fostering]. They should describe the steps taken to validate genAI outputs, as well as how they addressed biases and disparities in the results. A self-assessment provides students with the additional opportunity to reflect on their experience of working with genAI tools, identifying when genAI use was most beneficial, when it was not or was unproductive and how it has improved their learning skills and helped them to achieve their goals [@combrinck2025student]. Checklists have already been introduced to students to disclose and reflect on their use of genAI either as part of their assessment or as general guidance (see Table 1)
+Asking students to outline the logical steps they planned and followed using AI tools as an assistant for completing tasks or assessments introduces a certain degree of transparency around genAI engagement [@cotelli2025fostering]. They should describe the steps taken to validate genAI outputs, as well as how they addressed biases and disparities in the results. A self-assessment provides students with the additional opportunity to reflect on their experience of working with genAI tools, identifying when genAI use was most beneficial, when it was not or was unproductive and how it has improved their learning skills and helped them to achieve their goals [@combrinck2025student]. Checklists have already been introduced to students to disclose and reflect on their use of genAI either as part of their assessment or as general guidance; an example is reproduced below from the [University of Leeds' generative AI pages](https://generative-ai.leeds.ac.uk/ai-and-assessments/gen-ai-quick-checklist/).
 
-Table 1. A quick-to-use checklist for the use of genAI in assignments taken from the [University of Leeds](https://generative-ai.leeds.ac.uk/ai-and-assessments/gen-ai-quick-checklist/).
+::: {.callout-tip icon=false}
 
-|  |
-|------------------------------------------------------------------------|
-| I have checked the assessment brief or have spoken to my tutor or supervisor and can confirm that use of Gen AI is not prohibited for my assessment type. |
-| I have reviewed the Academic Integrity principles to help me avoid unintentional plagiarism. |
-| I have understood the risks and limitations of using Gen AI, including a recognition of issues of bias, sensitivity, accuracy, appropriate content and ethical issues. |
-| I have considered how the Gen AI tool will use the data I input (including checking the terms and conditions and privacy policy) and have chosen an appropriate Gen AI tool for my task. |
-| I have checked and critically reviewed any quotations, citations or outputs that the Gen AI tool has generated. |
-| I have not submitted any Personally Identifiable Information (PII) to a Gen AI tool. |
-| I have ensured that no part of my assessment copies or paraphrases Gen AI outputs without acknowledgement. |
-| I have ensured that my assignment / research remains my own work. |
-| I have appropriately referenced the use of Gen AI tools in my work. |
-| I have saved copies of Gen AI outputs used in preparing my assessment. These copies may be asked to be provided as an appendix to my assessment or as part of any misconduct process. |
-| I sought help from my tutors or the Library’s Learning Development Team when I was unsure about use of Gen AI or needed further guidance. |
+# Checklist for the use of genAI in assignments taken from the [University of Leeds](https://generative-ai.leeds.ac.uk/ai-and-assessments/gen-ai-quick-checklist/)
 
-### **The digital divergence**
+- I have checked the assessment brief or have spoken to my tutor or supervisor and can confirm that use of Gen AI is not prohibited for my assessment type.
+- I have reviewed the Academic Integrity principles to help me avoid unintentional plagiarism.
+- I have understood the risks and limitations of using Gen AI, including a recognition of issues of bias, sensitivity, accuracy, appropriate content and ethical issues.
+- I have considered how the Gen AI tool will use the data I input (including checking the terms and conditions and privacy policy) and have chosen an appropriate Gen AI tool for my task.
+- I have checked and critically reviewed any quotations, citations or outputs that the Gen AI tool has generated.
+- I have not submitted any Personally Identifiable Information (PII) to a Gen AI tool.
+- I have ensured that no part of my assessment copies or paraphrases Gen AI outputs without acknowledgement.
+- I have ensured that my assignment / research remains my own work.
+- I have appropriately referenced the use of Gen AI tools in my work.
+- I have saved copies of Gen AI outputs used in preparing my assessment. These copies may be asked to be provided as an appendix to my assessment or as part of any misconduct process.
+- I sought help from my tutors or the Library’s Learning Development Team when I was unsure about use of Gen AI or needed further guidance.
+
+:::
+
+## The digital divergence
 
 The introduction of any new technology can create inequalities between those who are skilled and able to exploit the technology and those who aren’t. However, conventionally, new technologies have been peripheral to the main tasks of coding and so have only offered incremental benefits to productivity. The great potential for genAI tools lies in their ability to directly create code and therefore accelerate productivity. This is qualitatively different to productivity boosts seen before (e.g., before it used to be manually catching typos and errors, while now it could be easily highlighted and caught with different editors or tools supported by genAI).
 
@@ -261,12 +263,14 @@ Skilled use of GenAI tools will not only affect the pace at which code is create
 
 At the same time, because genAIs have weakened the legitimacy of the simplest structures of assessment, not only is the syllabus likely to develop in sophistication, but so too will the structures and formats of assessment, potentially compounding confusion and further exacerbating the academic gap between weaker and stronger learners.
 
-### **Conclusion**
+## Conclusion
 
-Here we have introduced genAI as both an asset to teaching and learning and a threat to the authenticity of assessment. We have highlighted evidence that genAI tools can improve productivity, but not necessarily across all the skills associated with coding and that there maybe risks associated with students becoming dependent on genAI tools. In particular, we highlight the roles that genAI tools can play that support teaching and learning, namely as a topic expert, coding partner and puzzle setter. We also explore how to preserve authenticity in assessment in the age of genAI, where educators must combine several deliberate strategies suggested in this chapter: Strengthened supervision can help ensure genuine student performance, while designing assignments that integrate learning from multiple sources and modalities — such as text, videos, and external materials — increases the cognitive demand and reduces the ease of genAI misuse. Techniques such as embedding hidden text, using reverse‑engineering‑based tasks, and working with unsighted or bespoke datasets make it harder for genAI tools to generate correct answers without genuine student engagement. Finally, incorporating structured student self‑assessment encourages transparency, reflection, and responsible use of genAI, supporting more authentic demonstration of learning.
+Here we have introduced genAI as both an asset to teaching and learning and a threat to the authenticity of assessment. We have highlighted evidence that genAI tools can improve productivity, but not necessarily across all the skills associated with coding and that there maybe risks associated with students becoming dependent on genAI tools. In particular, we highlight the roles that genAI tools can play that support teaching and learning, namely as a topic expert, coding partner, and puzzle setter. We also explore how to preserve authenticity in assessment in the age of genAI, where educators must combine several deliberate strategies suggested in this chapter. Strengthened supervision can help ensure genuine student performance, while designing assignments that integrate learning from multiple sources and modalities --- such as text, videos, and external materials --- increases the cognitive demand and reduces the ease of genAI misuse. Techniques such as embedding hidden text, using reverse-engineering-based tasks, and working with unsighted or bespoke datasets make it harder for genAI tools to generate correct answers without genuine student engagement. Finally, incorporating structured student self‑assessment encourages transparency, reflection, and responsible use of genAI, supporting more authentic demonstration of learning.
 
-Ultimately, we believe that the introduction of genAI will transform coding so that the coder’s role becomes that of a code manager. This may change the approach taken to the coding exercises. However, these transformations are so central to how coding is taught, learned and applied that not all students may be able to adapt equally well across all ability levels. Hence, there is a significant risk that their introduction may exacerbate the gap in abilities rather than close it.
+Ultimately, we believe that the introduction of genAI will transform coding so that the coder’s role becomes that of a code manager. This may change the approach taken to the coding exercises. However, these transformations are so central to how coding is taught, learned, and applied that not all students may be able to adapt equally well across all ability levels. Hence, there is a significant risk that their introduction may exacerbate the gap in abilities rather than close it.
 
 ::: {.content-visible when-format="html" unless-format="epub"}
+
 ## References {.unnumbered}
+
 :::

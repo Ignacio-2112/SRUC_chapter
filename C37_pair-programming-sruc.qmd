@@ -11,7 +11,7 @@ keywords:
   - pair-programming
 ---
 
-I've been teaching the [Wildlife and Conservation Management](https://www.sruc.ac.uk/course-catalogue/wildlife-and-conservation-management/bsc-hons-wildlife-and-conservation-management/) programme at Scotland's Rural College (TODO: check link and specify programme level) for a bit more than 4 years, including modules around climate change, marine habitats, wildlife conflicts, survey methodologies, and map analysis. My groups are typically filled with students of all academic backgrounds and ages, united by a deep desire to protect our natural environments. However, most arrive with little to no IT skills. This is a significant gap, as I consider these abilities vital for any professional in the field, even those who envision themselves as solitary park rangers in the highlands or in the remote islands of Orkney or the Shetlands.
+I've been teaching the [Wildlife and Conservation Management](https://www.sruc.ac.uk/course-catalogue/wildlife-and-conservation-management/bsc-hons-wildlife-and-conservation-management/) programme at Scotland's Rural College (TODO: check link and specify programme level) for almost 6 years, including modules around climate change, marine habitats, wildlife conflicts, survey methodologies, and map analysis. My groups are typically filled with students of all academic backgrounds and ages, united by a deep desire to protect our natural environments. However, most arrive with little to no IT skills. This is a significant gap, as I consider these abilities vital for any professional in the field, even those who envision themselves as solitary park rangers in the highlands or in the remote islands of Orkney or the Shetlands.
 
 I strongly believe that learning how to code can have a huge impact on how these professionals improve and streamline their work, whether analysing climate data or sharing their findings about endangered species with the world, basic coding skills should be part of their day-to-day toolbox.
 
@@ -35,6 +35,7 @@ We'll work in pairs. One student will be the **driver**, controlling the main PC
 
 *Students in their pair programming roles*
 *TODO: Add image*
+Image 1: "Two pairs of students on their driver and co-pilot roles ready to start the challenge." 
 
 ### Get real messy data and figure it out. Together.
 This time, they had to download a real dataset from the MetOffice: climate data from Scotland in a strange-looking format (.txt). It involved conversion, structuring, and cleaning all at once. I could see them struggling with this. Some groups were trying different options, while others were looking for answers on websites or asking me questions. I could see how different strategies arose, but most importantly, each pair was using their different skill sets to solve this first part. Some of them almost gave up, while others were thriving and moving into the analysis stage.
